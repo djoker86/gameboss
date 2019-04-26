@@ -14,6 +14,7 @@ score => score
 
 1 user => n tournament
 1 user => 1 score
+1 user => n bet
 
 1 sport => n competition
 
