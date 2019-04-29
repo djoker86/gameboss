@@ -25,4 +25,28 @@ score => score
 1 match => n odd
 
 
+Database
+
++ users => id, email, username, password, nbCoins, isActive
+
++ competitions => id, sportId, name, country, isActive
+
++ sports => id, name
+
++ events => id, competitionId, name, startDate, homeTeam, status
+
++ participants => id, sportId, name
+
++ odds => id, eventId, type, value
+
++ bets => id, userId, eventId, tournamentId, nbCoins
+
++ tournaments => id, createdBy, wonBy, name, startDate, endDate
+
+
+
+
+
+
+
 
