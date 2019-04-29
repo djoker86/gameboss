@@ -2,14 +2,21 @@
 
 
 *participant => participant*
+
 *côte => odd*
+
 *pronostiqueur => user*
+
 *tournois => tournament*
+
 *competitions => competition*
+
 *match => match (event)*
+
 *sport => sport*
+
 *pari => bet*
-*score => score*
+
 
 ----------------------------------------------------------------------------------
 1 user => n tournament
